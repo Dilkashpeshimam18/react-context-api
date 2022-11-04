@@ -4,3 +4,5 @@ const AppContext = createContext({
     username: '',
     setUserName: () => { }
 })
+
+export default AppContext
